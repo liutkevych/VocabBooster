@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2f5bd3"/>
+  <!-- back card -->
+  <g transform="rotate(-10 256 256)">
+    <rect x="150" y="128" width="200" height="256" rx="28" fill="#ffffff" opacity="0.35"/>
+  </g>
+  <!-- front card -->
+  <g transform="rotate(6 256 256)">
+    <rect x="170" y="132" width="200" height="256" rx="28" fill="#ffffff"/>
+    <text x="270" y="250" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="96" font-weight="700" fill="#2f5bd3">A</text>
+    <rect x="215" y="272" width="110" height="8" rx="4" fill="#2f5bd3" opacity="0.25"/>
+    <text x="270" y="358" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#2c8a4b">Я</text>
+  </g>
+</svg>
